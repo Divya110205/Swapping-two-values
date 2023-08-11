@@ -26,6 +26,7 @@ b=temp
 print("Swapped values are: {} {}".format(a,b))
 ## OUTPUT:
 ![Exp 1a](https://github.com/Divya110205/Swapping-two-values/assets/119404855/9f003a0c-42f7-4c1e-bf96-f95698812ec5)
+
 ## RESULT:
 Thus the swapping of two values are successfully executed
 
