@@ -19,14 +19,12 @@ Print both the values it would be interchanged
 End the program
 ## PROGRAM:
 ```
-### Program to circulate N values.
-### Developed by: DIVYA.A
-## #RegisterNumber:212222230034
-def circulate():
-    l=eval(input())
-    n=int(input())
-    l=l[n:]+l[:n]
-    print("After circulating the values are:",l)
+a=input()
+b=input()
+temp=a
+a=b
+b=temp
+print("Swapped values are: {} {}".format(a,b))
 ```
 ## OUTPUT:
 ![Exp 1a](https://github.com/Divya110205/Swapping-two-values/assets/119404855/9f003a0c-42f7-4c1e-bf96-f95698812ec5)
